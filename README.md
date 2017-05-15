@@ -1,1 +1,1 @@
-# hello
+Short victory test!
